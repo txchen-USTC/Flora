@@ -4,7 +4,7 @@
 
 
 <p align="center" width="40%">
-<a ><img src="images/icon.png" alt="overview" style="width: 40%; min-width: 300px; display: block; margin: auto;"></a>
+<a ><img src="images/overview.png" alt="overview" style="width: 40%; min-width: 300px; display: block; margin: auto;"></a>
 </p>
 
 This is the repo for the Flora project, which introduces an LLM/Human-free augmentation method for infinite Long-Context SFT data construction, which concurrently **improves the LLM long-context understanding and retrieval performances** and **significantly mitigates the short-context performance degredation**. 
